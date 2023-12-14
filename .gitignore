@@ -1,0 +1,7 @@
+.env
+notes.md
+academy/
+*_x.py
+.vscode/
+*.db
+streamlit_agent/
